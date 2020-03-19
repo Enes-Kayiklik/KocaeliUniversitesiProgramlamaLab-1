@@ -1,0 +1,2 @@
+Programda uyulması gereken adımlar kod çalıştırıldıktan sonra ekranda uyarı olarak karşınıza çıkacaktır.
+Uygulamada herhangi bir sıkıntı yoktur.
